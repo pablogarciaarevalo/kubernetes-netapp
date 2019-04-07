@@ -58,7 +58,7 @@ resources: {}
 ##
 persistentVolume:
   enabled: true
-  storageClass: gold
+  storageClass: san
   accessModes: 
     - ReadWriteOnce
   size: 3Gi
